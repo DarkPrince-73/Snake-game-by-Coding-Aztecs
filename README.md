@@ -35,6 +35,7 @@ Through the apt integration of these components and libraries, we have achieved 
 
 
 How to run and deploy your code:
+
 To begin with, download Python from the official website of Python: https://www.python.org/downloads/ 
 Then, open command prompt (or terminal in Mac or Linux) and enter the command ‘pip install pygame’. This is used to install the external module pygame.
 Note: Users with both Python2 and Python3 installed on their systems should type “pip3 install pygame” instead. 
