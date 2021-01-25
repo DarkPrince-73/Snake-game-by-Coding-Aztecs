@@ -1,15 +1,18 @@
-Project Title: Snake Game by Coding Aztecs
+Project Title:   Snake Game by Coding Aztecs
 
 Group Members:
+
 -	Ajlal Mubarik
 -	Syed Baqar Abbas
 -	Syed Mohammad Talha Bukhari 
 -	Dawood Mehmood
 
 Short project description:
+
 The game we developed is the traditional snake game. The main idea of the game is to gain score by eating fruits, and preventing the snake from colliding with itself, walls or obstacles.
 
 Features:
+
 -	Three different levels to make the game more enjoyable
 1.	An easy level with no boundaries or obstacles (free space)
 2.	An intermediate level with a boundary. The snake is now confined within a specific area.
@@ -21,6 +24,7 @@ Features:
 -	A soothing music to complement user’s gaming experience
 
 Technical Architecture:
+
 Our game primarily consists of four components:
 •	Snake
 •	Fruit
